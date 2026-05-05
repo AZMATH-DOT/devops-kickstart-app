@@ -1,5 +1,5 @@
 
-# 🚀 DevOps Kickstart Project
+# 🚀 DevOps Kickstart Project:Production-Ready CI/CD Pipeline with Dockerized Deployment on AWS - JIra Ticket rising
 
 ## 📌 Project Overview
 
